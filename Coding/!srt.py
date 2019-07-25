@@ -1,6 +1,5 @@
-nice = 69 * 420
+cd ../..
 
-print nice
 
 
 
